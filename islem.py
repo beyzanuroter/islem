@@ -41,3 +41,6 @@ while True:
     else:
         print("Geçersiz bir seçim yaptiniz.")
         
+
+
+print("bitti")
